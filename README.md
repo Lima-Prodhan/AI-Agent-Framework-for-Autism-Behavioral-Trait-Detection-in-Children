@@ -26,17 +26,17 @@ The tabular notebook evaluates four models on an 80/20 stratified split of 1,054
 
 ## Screenshots from the app
 
-![Application home screen](assets/app-screenshots/01-home-screen.png)
+![Application home screen](assests/app-screenshots/01-home-screen.png)
 
 | Questionnaire result | Behavioural trait analysis |
 |---|---|
-| ![Questionnaire result](assets/app-screenshots/05-questionnaire-result.png) | ![Behavioural trait analysis](assets/app-screenshots/12-behavioral-trait-analysis.png) |
+| ![Questionnaire result](assests/app-screenshots/05-questionnaire-result.png) | ![Behavioural trait analysis](assests/app-screenshots/12-behavioral-trait-analysis.png) |
 
 | Social story example | Visual schedule example |
 |---|---|
-| ![Social story example](assets/app-screenshots/20-social-story-example.png) | ![Visual schedule example](assets/app-screenshots/21-visual-schedule-example.png) |
+| ![Social story example](assests/app-screenshots/20-social-story-example.png) | ![Visual schedule example](assests/app-screenshots/21-visual-schedule-example.png) |
 
-More screenshots are available in [`assets/app-screenshots/`](assets/app-screenshots/).
+More screenshots are available in [`assets/app-screenshots/`](assests/app-screenshots).
 
 ## Dataset
 
