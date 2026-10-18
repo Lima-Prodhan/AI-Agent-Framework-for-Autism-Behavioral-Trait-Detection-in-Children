@@ -38,7 +38,7 @@ The tabular notebook evaluates four models on an 80/20 stratified split of 1,054
 
 More screenshots are available in [`assets/app-screenshots/`](assets/app-screenshots/).
 
-## Dataset provenance and access
+## Dataset
 
 The project works with two public datasets.
 
