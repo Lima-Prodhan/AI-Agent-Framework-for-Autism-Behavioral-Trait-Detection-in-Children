@@ -1,0 +1,17 @@
+# Principal dependencies for the two supplied model-training notebooks.
+# This is a convenience list, not a pinned/reproduced environment lockfile.
+# The notebooks were developed around Google Colab and use notebook-specific downloads.
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+joblib
+xgboost
+torch
+transformers
+nlpaug
+nltk
+gdown
+jupyter

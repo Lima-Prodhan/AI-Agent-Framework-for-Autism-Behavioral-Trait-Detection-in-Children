@@ -1,0 +1,27 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Dataset downloads (do not commit research datasets unless their license permits it)
+data/
+*.csv
+!results/model_metrics.csv
+
+# Trained artifacts / checkpoints
+saved_models/
+asd_classifier_model/
+*.pkl
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Notebook exports and temporary output
+*.log
+*.tmp
