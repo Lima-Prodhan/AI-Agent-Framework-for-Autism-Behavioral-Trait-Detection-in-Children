@@ -12,7 +12,7 @@ The project describes a dual-input workflow for child behavioural-trait screenin
 3. **Agent experience:** a LangGraph workflow with supervisor, questionnaire, text, guidance, social-story, and visual-schedule agents; a fixed 14-trait taxonomy; and a Streamlit interface.
 
 The project builds an end-to-end Streamlit interface and a LangGraph `StateGraph` with six agent roles: supervisor, questionnaire, text analysis, guidance, social story, and visual schedule. It also discusses memory/session history, a fixed 14-trait list, a concern tier, and FAISS-backed template retrieval.
-See Screenshots of the application in `assets/app-screenshots/`.
+See Screenshots of the application in [assests/app-screenshots](assets/app-screenshots/).
 
 
 ## Model Results
